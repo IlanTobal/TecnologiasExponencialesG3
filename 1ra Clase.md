@@ -10,33 +10,33 @@ Perfil Digital -> Huella Digital
 
 Buscadores
 
--Google
--Maps -> Ubicaciones, Recorridos, Historial de busqueda
--Search -> Historial de busqueda, click en links
--YouTube -> Historial de busqueda-reproduccion
--YouTube Music -> Historial de busqueda - escucha de canciones 
--Drive -> Documentos, imagenes, red de contactos
--GMail -> Contactos, los mails
--Chrome -> !
+- Google
+- Maps -> Ubicaciones, Recorridos, Historial de busqueda
+- Search -> Historial de busqueda, click en links
+- YouTube -> Historial de busqueda-reproduccion
+- YouTube Music -> Historial de busqueda - escucha de canciones 
+- Drive -> Documentos, imagenes, red de contactos
+- GMail -> Contactos, los mails
+- Chrome -> !
 	...
 
--Facebook -> Red de contactos, seguidores, mensajes, posts/historias, likes
--Instagram -> tiempos de uso
--Whatsapp
+- Facebook -> Red de contactos, seguidores, mensajes, posts/historias, likes
+- Instagram -> tiempos de uso
+- Whatsapp
 
--Netflix -> Historial de Reproducciones, 
--Amazon Prime
+- Netflix -> Historial de Reproducciones, 
+- Amazon Prime
 
--Spotify
+- Spotify
 
--OS
--Windows
--Linux
--macOS
--iOS
--Android
+- OS
+- Windows
+- Linux
+- macOS
+- iOS
+- Android
 
--Apple Health
+- Apple Health
 
 
 Inferir, predecir, estimar
